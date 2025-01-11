@@ -172,7 +172,7 @@ if (empty($_SESSION['username']) || empty($_SESSION['password']) || $_SESSION['l
             // Tambahkan event listener ke elemen input
             lamaRental.addEventListener('input', logInput);
             harga.addEventListener('input', loginput2);
-            // document.getElementById("total_bayar_rapi").innerText(total_bayar);
+            
         </script>
 
 
